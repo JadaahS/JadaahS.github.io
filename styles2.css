@@ -8,7 +8,9 @@ body {
   background-repeat: no-repeat;
   color: #ffffff;
 }
+title {font-size-adjust: var(20px);
 
+}
 .container {
   width: 80%;
   margin: 0 auto;
@@ -17,6 +19,7 @@ body {
 .navbar {
   background-color: rgba(0, 0, 0, 0.5); /* Transparent background color */
   padding: 15px 0;
+  float: center;
 }
 
 .navbar h1 {
@@ -40,6 +43,14 @@ body {
   text-decoration: none;
   color: #fff;
 }
+
+.navbar h2 { 
+  p{ 
+  background-color: rgba(0, 0, 0, 0.5); /* Transparent background color */
+  padding: 15px 0;
+}
+}
+
 
 .hero-section,
 .content-section {
