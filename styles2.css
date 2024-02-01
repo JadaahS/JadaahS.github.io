@@ -22,6 +22,11 @@ title {font-size-adjust: var(20px);
   float: center;
 }
 
+section  {background-color: rgba(0, 0, 0, 0.5);
+color: rgb(253, 255, 255);
+
+}
+
 .navbar h1 {
   margin: 0;
   display: inline;
